@@ -1,0 +1,11 @@
+# -*- coding:utf-8 -*-
+import re
+
+text = '（245条评论）'
+text = re.sub("\D", "", text)
+print(text)
+
+
+***********
+245
+
