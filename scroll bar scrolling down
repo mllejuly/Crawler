@@ -1,0 +1,6 @@
+scrollbar = s.driver.find_element_by_class_name('unifycontainer-two-wrapper')
+s.driver.execute_script('arguments[0].scrollTop = arguments[0].scrollHeight', scrollbar)
+
+
+// "find_element_by_class_name" can be replaced by other which can locate the scroll bar
+// s = webdriver.Chrome
