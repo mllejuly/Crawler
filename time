@@ -1,0 +1,12 @@
+# Current Date
+
+date0 = time.strftime('%m/%d/%Y', time.localtime(time.time()))
+
+
+
+
+
+# 5 days after Current Date
+
+date1 = datetime.strftime(datetime.strptime(date0, "%m/%d/%Y") + timedelta(days=5), "%m/%d/%Y")
+
