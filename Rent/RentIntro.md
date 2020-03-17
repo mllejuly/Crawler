@@ -26,7 +26,8 @@
 
 
 ## **Floor Plan**
-![平面图](https://user-images.githubusercontent.com/38336855/76907639-1f16a580-687d-11ea-92c2-163992e363f2.jpg)
+* ![平面图](https://user-images.githubusercontent.com/38336855/76907639-1f16a580-687d-11ea-92c2-163992e363f2.jpg)
+* 我住的是Room2，现在寻找Room1 的室友
 
 ## **Inside House**
 * Bedroom
