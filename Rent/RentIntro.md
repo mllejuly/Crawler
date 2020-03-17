@@ -53,4 +53,5 @@
 * 超好说话，只要你不把家拆了烧了都好商量。
 * 希望你可以配合我一起打扫卫生，保持家里的干净。
 * ContactMe: qifangerin@163.com
- 
+ ![30e057d26e44225d106e8b501c95d19](https://user-images.githubusercontent.com/38336855/76911170-8127d880-6886-11ea-8e11-beb5bfb2581c.jpg)
+
