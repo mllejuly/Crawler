@@ -11,6 +11,7 @@
 * 价格：$485/month
   * 月租价格包括水费，暖气费。不包括电费，煤气费。
   * 房租之外的 utility 大概人均 $50/month。
+  * 暖气是统一供暖的暖气片，冬天不会冷。(比中央空调更卫生无需担心病毒传播！【误)
 
 
 ## **Parking**
@@ -36,4 +37,10 @@
 * Living Room (客厅窗户)
 ![客厅窗户](https://user-images.githubusercontent.com/38336855/76907969-fc38c100-687d-11ea-8c48-df7b422a5b19.jpg)
 
-
+## **About Me**
+* 你的未来室友，是个妹子，希望你也是。
+* 2019 Fall CS Master in Syracuse University
+* 写代码的。一般宅家睡觉写代码，或者去学校上课写代码。
+* 不会修电脑，会做饭，写代码写累了我就打扫卫生做家务放松一下 :)
+* ContactMe: qifangerin@163.com
+ 
