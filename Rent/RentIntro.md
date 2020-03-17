@@ -12,7 +12,7 @@
 * 价格：$485/month
   * 月租价格包括水费，暖气费。不包括电费，煤气费。
   * 房租之外的 utility 大概人均 $50/month。
-  * 暖气是统一供暖的暖气片，冬天不会冷。(比中央空调更卫生无需担心气溶胶传播哦~)
+  * 暖气是统一供暖的暖气片，冬天不会冷。暖气片每个房间，客厅，厨房卫生间都有分布。(比中央空调更卫生无需担心气溶胶传播哦~)
 * 押金：$970
   * 押金即两个月的房租，每人在和 agent 签约前需要缴纳 $970 的押金
   * 押金在退房时退还。
@@ -31,15 +31,17 @@
 
 ## **Inside House**
 * Bedroom
-![卧室](https://user-images.githubusercontent.com/38336855/76907699-479e9f80-687d-11ea-944d-cddf49e6472a.jpg)
+![房间](https://user-images.githubusercontent.com/38336855/76910179-b2eb7000-6883-11ea-90de-dd300bb11fcd.jpg)
 * Closet
 ![衣橱](https://user-images.githubusercontent.com/38336855/76907742-6309aa80-687d-11ea-9105-a99645082196.jpg)
 * Kitchen
 ![厨房](https://user-images.githubusercontent.com/38336855/76908048-27bbab80-687e-11ea-89cc-3f305f339b10.jpg)
 * Bathroom
-![卫生间](https://user-images.githubusercontent.com/38336855/76907792-816fa600-687d-11ea-93d1-d8896a0199ac.jpg)
+![卫生间](https://user-images.githubusercontent.com/38336855/76910159-a23afa00-6883-11ea-9b7c-db1daca41e20.jpg)
 * Living Room (客厅窗户)
-![客厅窗户](https://user-images.githubusercontent.com/38336855/76907969-fc38c100-687d-11ea-8c48-df7b422a5b19.jpg)
+![客厅1](https://user-images.githubusercontent.com/38336855/76910212-cbf42100-6883-11ea-98cd-4af3131b0123.jpg)
+![客厅2](https://user-images.githubusercontent.com/38336855/76910215-ce567b00-6883-11ea-91a2-8191ab01015e.jpg)
+
 
 ## **About Me**
 * 你的未来室友，是个妹子，希望你也是。
