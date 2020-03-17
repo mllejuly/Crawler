@@ -30,7 +30,7 @@
 * Closet
 ![衣橱](https://user-images.githubusercontent.com/38336855/76907742-6309aa80-687d-11ea-9105-a99645082196.jpg)
 * Kitchen
-![厨房](https://user-images.githubusercontent.com/38336855/76907762-70bf3000-687d-11ea-8654-9d467747b952.jpg)
+![厨房](https://user-images.githubusercontent.com/38336855/76908048-27bbab80-687e-11ea-89cc-3f305f339b10.jpg)
 * Bathroom
 ![卫生间](https://user-images.githubusercontent.com/38336855/76907792-816fa600-687d-11ea-93d1-d8896a0199ac.jpg)
 * Living Room (客厅窗户)
