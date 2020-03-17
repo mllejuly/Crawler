@@ -1,5 +1,6 @@
 ## **Location**
 * 公寓：The Paul
+* 网站：https://www.apartments.com/paul-apartment-homes-syracuse-ny/r20j4y0/
 * 地址：1114 E Genesee St, Syracuse, NY, 13210
   * 户型是 2b1b (2 rooms，1 share bathroom)
   * 地理位置安全方便，步行学校10分钟，步行亚洲超市10分钟(买菜超方便哦)。
@@ -10,6 +11,7 @@
 ## **Rent**
 * 租期：2020.8.1 - 2021.7.31
 * 价格：$485/month
+  * 签约方式是和公寓直接签约，每个月租金用cash check或者转账方式转给公寓agent。
   * 月租价格包括水费，暖气费。不包括电费，煤气费。
   * 房租之外的 utility 大概人均 $50/month。
   * 暖气是统一供暖的暖气片，冬天不会冷。暖气片每个房间，客厅，厨房卫生间都有分布。(比中央空调更卫生无需担心气溶胶传播哦~)
