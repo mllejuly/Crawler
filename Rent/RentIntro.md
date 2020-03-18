@@ -53,7 +53,7 @@
 ![厨房2](https://user-images.githubusercontent.com/38336855/76910292-02ca3700-6884-11ea-8b4a-f433528a18a9.jpg)
 * Bathroom
 ![卫生间](https://user-images.githubusercontent.com/38336855/76910159-a23afa00-6883-11ea-9b7c-db1daca41e20.jpg)
-* Living Room (客厅窗户)
+* Living Room
 ![客厅1](https://user-images.githubusercontent.com/38336855/76910212-cbf42100-6883-11ea-98cd-4af3131b0123.jpg)
 ![客厅2](https://user-images.githubusercontent.com/38336855/76910215-ce567b00-6883-11ea-91a2-8191ab01015e.jpg)
 
