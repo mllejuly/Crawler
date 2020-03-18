@@ -66,6 +66,5 @@
   * 可以配合我一起打扫卫生，轮流打扫客厅，卫生间和厨房，保持家里的干净
   * 不要太吵闹
   * 按时缴纳房租和 share 的 utility (电费，网络费)
-* ContactMe: qifangerin@163.com
- ![30e057d26e44225d106e8b501c95d19](https://user-images.githubusercontent.com/38336855/76911170-8127d880-6886-11ea-8e11-beb5bfb2581c.jpg)
-
+* ContactMe: qifangerin@163.com (邮件请注明租房，以及简单的自我介绍，比如学院专业入学季度)
+* Thank You
